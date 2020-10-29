@@ -1,0 +1,15 @@
+.hero {
+  background-color: aqua;
+}
+
+.hero .container {
+  background-color: bisque;
+  width: 100%;
+  height: 100%;
+}
+
+.hero .container > h3, .hero .container > p {
+  width: 100%;
+  margin: 100%;
+}
+/*# sourceMappingURL=main.css.map */

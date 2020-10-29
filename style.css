@@ -1,0 +1,18 @@
+.hero{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background-image: url(/image/Rectangle.png)}
+    .hero .container {
+        position: relative;
+        margin-top: 10px;
+        margin-left: 700px;
+        display:flex;
+        flex-direction: row;
+        
+        justify-content: space-between;align-items: center;
+  
+}
+
+    
+

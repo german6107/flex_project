@@ -342,20 +342,5 @@ color: whitesmoke;
     width: 1900px;
     height: 570px;
     background-color:rgba(246, 246, 248, 1);}
-.footer__content{ 
-    width: 1000px;
-    height: 300px;
-    margin-left: 500px;
-    margin-top: 400px;
-display: flex;
-justify-content: space-around;
-align-items: center;}
-.footer__content_text{display: flex;
-justify-content: space-around;}
-.content_text_img{display: flex;
-flex-direction: column;
-justify-content: space-around;}
-.content_text_title{display: flex;
-    flex-direction: column;
-justify-content: space-between;}
+
 
